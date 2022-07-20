@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon} 
-  - {url: "https://benfincher.gitbub.io/ben.pdf", title: "CV"}
+  - {file: "Ben.pdf", title: CV}
   - {file: "projects.md", title: "Projects"}
   - {file: "Blog.md", title: "Blog"}
  
