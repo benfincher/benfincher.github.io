@@ -16,10 +16,10 @@ minimal: false             # use a dark header
 
 # Menu
 
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "README.md", title: About me} 
+navigation:                # accepts {file, title, url, icon, sidebaricon} 
   - {url: "https://benfincher.gitbub.io/cv/ben.pdf", title: "CV"}
   - {file: "projects.md", title: "Projects"}
+  - {file: "Blog.md", title: "Blog"}
  
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Github, icon: github, url: "http://github.com/benfincher"}
