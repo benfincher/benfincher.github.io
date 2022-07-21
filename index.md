@@ -11,7 +11,7 @@ Prior to my time at Texas A&M I worked as an environmental Technical Assistance 
 
 I hold a Master of Arts in Community Planning from the University of Washington, Tacoma and a Bachelor of Arts in International Studies with an emphasis in Latin American history from Abilene Christian University. 
 
-Please look at my [CV]( for more detial on these experiences.
+Please look at my [CV]("https://benfincher.github.io/Ben.pdf", title: "CV") for more detial on these experiences.
 
 Outside my research, you can find me taking cooking lessons from my wife, reading to my newborn, or working hard not to sweat perfusly in the Texas sun while biking to work or walking my dog. When traveling I love eating at local diners on vacation, and I might drink too much black hot coffee.
 
