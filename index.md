@@ -9,8 +9,8 @@ I am a PhD student in the [Depatemnt of Geography](https://geography.tamu.edu/) 
 Prior to my time at Texas A&M I worked as an environmental Technical Assistance Provider with Communities Unlimited in Knoxville, TN, a GIS Analyst for Safe Streets Campaign in Tacoma, WA, and an AmeriCorps volunteer for Federal Way, WA public schools. 
 
 I hold a Master of Arts in Community Planning from the University of Washington, Tacoma and a Bachelor of Arts in International Studies with an emphasis in Latin American history from Abilene Christian University. 
+
 Please look at my CV for more detial on these experiences. 
 
-
-This website is a work-in-progress, so please check back soon as I continue to update these pages.
+Check back soon as I continue to update this site!
 
