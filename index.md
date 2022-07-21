@@ -4,4 +4,4 @@ title: ""
 
 ---
 
-RESEARCH INTERESTS:  Infrastructure | Water | Environmental Justice | Science & Technology Studies (STS)
+Infrastructure | Water | Environmental Justice | Science & Technology Studies (STS)
