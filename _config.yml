@@ -17,7 +17,6 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon} 
-   - {file: "about.md", title: "About"}
    - {file: "projects.md", title: "Projects"}
    - {url: "https://benfincher.github.io/Ben.pdf", title: "CV"}
   - {file: "blog.md", title: "Blog"}
