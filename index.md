@@ -3,7 +3,6 @@ layout: page
 title: ""
 
 ---
-Environmental Justice; Infrastructure; Science & Technology Studies (STS); Water Security; Urban development 
 
 I am a PhD student in the [Depatemnt of Geography](https://geography.tamu.edu/) at Texas A&M University. The core of my research interests cover environmental and drinking water justice in the United States. As a critical social scientist in training, my current work investigates urban water systems as a method to explore the spatial, cultural and economic politics involved with drinking water governance in an effort to understand the realities of water insecurity in the United States. I work as a research assistant at the Texas Water Resources Institute's [Urban Water Innovation and Sustainability Hub (Urban WISH)](https://twri.tamu.edu/our-work/engaging-educating/urban-wish/) under the guidance of Dr. Wendy Jepson. 
 
